@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IP-03</code>
-<code>⚪ Community: Metarhia</code>
+<!-- <code><code>⚪ Community: Metarhia</code></code> -->
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
