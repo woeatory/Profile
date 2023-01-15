@@ -109,3 +109,30 @@
 | ⬜ SharedArrayBuffer | 🟦 Event Sourcing            |                   |                  |                      |
 | 🟦 child_process     | 🟦 Shared memory             |                   |                  |                      |
 | 🟦 worker_threads    |                              |                   |                  |                      |
+
+## Testing software
+
+| Theory                        | Technique                        |               
+|-------------------------------|----------------------------------|
+| 🟩 unittest                   | 🟩 AAA-rule                     | 
+| 🟩 integration test           | 🟩 TDD                          | 
+| 🟩 e2e test                   | 🟩 DRY and DAMP                 | 
+| 🟩 error, bug, fault, failure | 🟩 code coverage                | 
+| 🟩 test scope, test sizes     | 🟩 randomized testing           | 
+| 🟩 test pyramid               | 🟦 fuzzing                      | 
+| 🟩 ice cream cone antipattern | 🟦 property-based testing       | 
+| 🟩 beyonce rule               | 🟦 input generation strategies  | 
+| 🟩 test automation            | 🟦 load testing                 | 
+| 🟩 manual tests               | 🟦 benchmarking                 | 
+| 🟩 text fixture               |                                  | 
+| 🟩 fakes, stubs, mocks        |                                  | 
+| 🟩 realism and isolation      |                                  | 
+| 🟩 brittle tests, flaky tests |                                  | 
+| 🟩 testing status             |                                  |                
+| 🟩 clean tests                |                                  |                 
+| 🟩 logic in tests             |                                  |              
+| 🟩 correctness                |                                  |                
+| 🟩 readability                |                                  |                 
+| 🟩 completeness               |                                  |        
+| 🟩 demonstrability            |                                  |                  
+| 🟩 resilience                 |                                  |              
