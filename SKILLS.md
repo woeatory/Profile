@@ -116,23 +116,23 @@
 |-------------------------------|----------------------------------|
 | 🟩 unittest                   | 🟩 AAA-rule                     | 
 | 🟩 integration test           | 🟩 TDD                          | 
-| 🟩 e2e test                   | 🟩 DRY and DAMP                 | 
-| 🟩 error, bug, fault, failure | 🟩 code coverage                | 
-| 🟩 test scope, test sizes     | 🟩 randomized testing           | 
-| 🟩 test pyramid               | 🟦 fuzzing                      | 
-| 🟩 ice cream cone antipattern | 🟦 property-based testing       | 
-| 🟩 beyonce rule               | 🟦 input generation strategies  | 
-| 🟩 test automation            | 🟦 load testing                 | 
-| 🟩 manual tests               | 🟦 benchmarking                 | 
-| 🟩 text fixture               |                                  | 
+| 🟩 E2E test                   | 🟩 DRY and DAMP                 | 
+| 🟩 error, bug, fault, failure | 🟩 Code coverage                | 
+| 🟩 test scope, test sizes     | 🟩 Randomized testing           | 
+| 🟩 Test pyramid               | 🟦 Fuzzing                      | 
+| 🟩 Ice cream cone antipattern | 🟦 Property-based testing       | 
+| 🟩 Beyonce rule               | 🟦 Input generation strategies  | 
+| 🟩 Test automation            | 🟦 Load testing                 | 
+| 🟩 Manual tests               | 🟦 Benchmarking                 | 
+| 🟩 Text fixture               |                                  | 
 | 🟩 fakes, stubs, mocks        |                                  | 
 | 🟩 realism and isolation      |                                  | 
 | 🟩 brittle tests, flaky tests |                                  | 
-| 🟩 testing status             |                                  |                
-| 🟩 clean tests                |                                  |                 
-| 🟩 logic in tests             |                                  |              
-| 🟩 correctness                |                                  |                
-| 🟩 readability                |                                  |                 
-| 🟩 completeness               |                                  |        
-| 🟩 demonstrability            |                                  |                  
-| 🟩 resilience                 |                                  |              
+| 🟩 Testing status             |                                  |                
+| 🟩 Clean tests                |                                  |                 
+| 🟩 Logic in tests             |                                  |              
+| 🟩 Correctness                |                                  |                
+| 🟩 Readability                |                                  |                 
+| 🟩 Completeness               |                                  |        
+| 🟩 Demonstrability            |                                  |                  
+| 🟩 Resilience                 |                                  |              
